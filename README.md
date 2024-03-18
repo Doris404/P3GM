@@ -1,4 +1,6 @@
 ## About P3GM
+This repo is edited by Doris404 ❤️
+
 P3GM is a differentially private generative model. 
 The algorithm of P3GM is described in our paper (https://arxiv.org/abs/2006.12101). 
 
